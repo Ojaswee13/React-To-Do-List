@@ -1,16 +1,44 @@
-# React + Vite
+# React To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and simple To-Do List application built with **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Responsive and minimal UI
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript
+* Tailwind CSS
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/Ojaswee13/React-To-Do-List.git
+cd React-To-Do-List
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Preview
+<img width="662" height="442" alt="image" src="https://github.com/user-attachments/assets/e96a4e0d-dfa2-44c2-b7a8-98ebe9703146" />
+
+
+
+
+## Project
+
+Built as a React practice project to explore components, props, state, event handling and conditional rendering.
+
